@@ -5,6 +5,7 @@ html, body, main, section {
   width: 100%;
   font-family: 'Work Sans', sans-serif;
   overflow-x: hidden;
+    background-color: orange;
 }
 
 div {
